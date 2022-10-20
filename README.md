@@ -9,12 +9,11 @@ Node version <16
 [Cypress](https://www.dropbox.com/home/QALearningSessions/RecordedSessions/Test%20Automation%20Challenges)
 
 ### Project dependencies: 
-`nvm install node`
-
-## Cypress Instalation
-`npm install cypress`
+## Installation:
+`npm install`
+## Open cypress runner:
 `npx cypress open`
 
-Use: work.co for the first test 
+Use: work.co website for the first test 
 
 **Let's get started!**
